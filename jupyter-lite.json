@@ -6,7 +6,7 @@
     "federated_extensions": [
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.a37e37c87d212fe85e13.js",
+        "load": "static/remoteEntry.e4ff09401a2f575928c0.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
@@ -33,17 +33,17 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.2916befd91bdb8847e88.js",
+        "load": "static/remoteEntry.a36d13f475360b3d8988.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
+        "load": "static/remoteEntry.aeedc0e842f9b77326e5.js",
         "name": "ipycanvas"
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.5e71a5e8dcb6330c0085.js",
+        "load": "static/remoteEntry.a83217134ba8dacb85fc.js",
         "name": "jupyter-leaflet"
       },
       {
@@ -54,7 +54,7 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.70a4f7e7a0383740860d.js",
+        "load": "static/remoteEntry.41e12212782f05d7d17b.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
