@@ -25,7 +25,7 @@ jobs:
         run: |
           jupyter lite build --files content
       - name: Upload (dist)
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: jupyterlite-demo dist ${{ github.run_number }}
           path: ./_output
